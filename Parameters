@@ -11,7 +11,7 @@ classdef Parameters
         function obj = Parameters()
             obj.p1 = 0.1;          
             obj.p2 = 0.5;
-            obj.p3 = 0.05;        
+            obj.p3 = 0.7;        
             obj.p4 = 8;
             obj.p5 = 1.5;           
         end
